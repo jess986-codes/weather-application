@@ -1,5 +1,5 @@
-# weather-application
-== Created in 2020 ==\
+# weatherApp
+== Created in 2020 ==
 My own weather app created using the OpenWeather API to get weekly and hourly weather forecasts in a user-chosen city or country region.\
 All it uses is Google's geocoder API to extract country coordinates that is required in the OpenWeather API call itself.\
 All adobrable weather icons were personally created by myself, giving users a spike of positive energy even if it's a gloomy day, endlessly soaked in rain.
@@ -14,10 +14,25 @@ To generate your WEATHER_API_KEY:
 
 To generate your GOOGLE_API_KEY:
 1. Go to this site: https://developers.google.com/maps/gmp-get-started#quickstart 
-2. Follow the steps from 1 to 3, but ensure in step 2 that you select or search for the geocode API.
+2. Follow the steps from 1 to 3, but ensure in step 2 that you select or search for the "geocode API".
 >👉 **_NOTE:_** It is important that <ins>**billing is enabled**</ins> on your account or the API will not work.
-####
-**Once all the API key values have been replaced, in command line, navigate to this project's directory and paste the following command:**
+
+## What you need before you run
+1. Node.js installed through one of the following:
+```
+a) download for your OS here: https://nodejs.org/en/download/
+b) using homebrew on Linux: brew install node
+```
+2. Ensure the path to Node.js is in your PATH environment variables under user and system variables.\
+Instructions here: https://love2dev.com/blog/node-is-not-recognized-as-an-internal-or-external-command/
+
+**Once all the API key values have been replaced, in command line, navigate to this project's directory and paste the following command to install all npm package dependencies:**
+```
+npm install
+```
+## Time to run
+
+**In the directory where app.js is, run the following command:**
 ```
 node app.js
 ```
