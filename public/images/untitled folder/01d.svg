@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="184" height="184" viewBox="0 0 184 184">
+  <g id="Group_26" data-name="Group 26" transform="translate(-916 -489)">
+    <g id="Group_12" data-name="Group 12" transform="translate(916 489)">
+      <circle id="Sunny" cx="92" cy="92" r="92" fill="#ffe733"/>
+      <path id="Path_14" data-name="Path 14" d="M31.026,12.792c2.087,4.858-6.914,15.442-15.442,15.442S-3.153,17.409.141,12.792,28.939,7.934,31.026,12.792Z" transform="translate(74.497 96.591)" fill="#ff719c"/>
+    </g>
+    <path id="Union_2" data-name="Union 2" d="M0,16.544,20.59,19.3ZM20.59,0,0,16.544Z" transform="translate(1029.887 577.15)" fill="none" stroke="#cb7c2c" stroke-width="4"/>
+    <path id="Union_3" data-name="Union 3" d="M0,2.758,20.59,0ZM20.59,19.3,0,2.758Z" transform="translate(979.699 596.452) rotate(180)" fill="none" stroke="#cb7c2c" stroke-width="4"/>
+  </g>
+</svg>

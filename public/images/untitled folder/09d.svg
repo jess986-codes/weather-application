@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="257" height="248.326" viewBox="0 0 257 248.326">
+  <g id="rain" transform="translate(-496 -217)">
+    <rect id="Rectangle_12" data-name="Rectangle 12" width="26" height="11" rx="5.5" transform="translate(529.625 389.395) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_16" data-name="Rectangle 16" width="26" height="11" rx="5.5" transform="translate(564.78 398.189) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_13" data-name="Rectangle 13" width="26" height="11" rx="5.5" transform="translate(520.245 423.349) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" width="13" height="11" rx="5.5" transform="translate(514.809 443.634) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" width="26" height="11" rx="5.5" transform="translate(601.195 400.169) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_15" data-name="Rectangle 15" width="26" height="11" rx="5.5" transform="translate(555.14 433.108) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" width="26" height="11" rx="5.5" transform="translate(584.154 462.48) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" width="13" height="11" rx="5.5" transform="translate(593.693 426.489) rotate(-75)" fill="#84aaff"/>
+    <rect id="Rectangle_11" data-name="Rectangle 11" width="213.937" height="66.065" rx="33.033" transform="translate(539.063 283.935)" fill="#969696"/>
+    <ellipse id="Ellipse_10" data-name="Ellipse 10" cx="34.646" cy="38.683" rx="34.646" ry="38.683" transform="translate(533 272.634)" fill="#969696"/>
+    <ellipse id="Ellipse_11" data-name="Ellipse 11" cx="48.504" cy="49.984" rx="48.504" ry="49.984" transform="translate(567.646 217)" fill="#969696"/>
+    <ellipse id="Ellipse_12" data-name="Ellipse 12" cx="30.748" cy="31.294" rx="30.748" ry="31.294" transform="translate(651.662 241.34)" fill="#969696"/>
+    <rect id="Rectangle_10" data-name="Rectangle 10" width="213.937" height="66.065" rx="33.033" transform="translate(502.063 305.935)" fill="#fff"/>
+    <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="34.646" cy="38.683" rx="34.646" ry="38.683" transform="translate(496 294.634)" fill="#fff"/>
+    <ellipse id="Ellipse_8" data-name="Ellipse 8" cx="48.504" cy="49.984" rx="48.504" ry="49.984" transform="translate(530.646 239)" fill="#fff"/>
+    <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="30.748" cy="31.294" rx="30.748" ry="31.294" transform="translate(614.662 263.34)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="274.171" height="195.342" viewBox="0 0 274.171 195.342">
+  <g id="Sunny_Cloud" data-name="Sunny Cloud" transform="translate(-843 -495.829)">
+    <g id="Group_11" data-name="Group 11" transform="translate(806.715 343.054) rotate(30)">
+      <circle id="Sunny" cx="71.5" cy="71.5" r="71.5" transform="translate(238 39)" fill="#ffe733"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="7.5" cy="7.5" r="7.5" transform="translate(281.124 70.34)" fill="#cb7c2c"/>
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="7.5" cy="7.5" r="7.5" transform="translate(325.928 69.876)" fill="#cb7c2c"/>
+      <path id="Path_15" data-name="Path 15" d="M24,12c1.622,3.775-5.373,12-12,12S-2.56,15.588,0,12,22.378,8.225,24,12Z" transform="translate(298.794 70.84)" fill="#ff719c"/>
+      <path id="Path_18" data-name="Path 18" d="M2296.611,1347.657s18.541-44.126,25.371,0" transform="translate(-1435.631 -1947.585) rotate(20)" fill="none" stroke="#cb7c2c" stroke-width="1"/>
+      <path id="Path_17" data-name="Path 17" d="M0,0S18.541,44.126,25.371,0" transform="translate(360.1 104.285) rotate(160)" fill="none" stroke="#cb7c2c" stroke-width="1"/>
+    </g>
+    <path id="Union_1" data-name="Union 1" d="M39.1,133q-1.139,0-2.26-.076Q35.75,133,34.646,133C15.512,133,0,115.682,0,94.317S15.512,55.634,34.646,55.634l.307,0a52.059,52.059,0,0,1-.307-5.652C34.646,22.378,56.362,0,83.15,0c20.844,0,38.618,13.55,45.479,32.569A30.347,30.347,0,0,1,149.41,24.34c16.981,0,30.748,14.01,30.748,31.294a31.711,31.711,0,0,1-2.066,11.3h8.876a33.033,33.033,0,1,1,0,66.065Z" transform="translate(843 540)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="393.438" height="306.265" viewBox="0 0 393.438 306.265">
+  <g id="Group_28" data-name="Group 28" transform="translate(-2766 -2877.062)">
+    <g id="sunny_rain" data-name="sunny rain" transform="translate(2228 2727)">
+      <g id="thunderstorm" transform="translate(37 -9)">
+        <rect id="Rectangle_12" data-name="Rectangle 12" width="26" height="11" rx="5.5" transform="translate(529.625 389.395) rotate(-75)" fill="#84aaff"/>
+        <rect id="Rectangle_16" data-name="Rectangle 16" width="26" height="11" rx="5.5" transform="translate(564.78 398.189) rotate(-75)" fill="#84aaff"/>
+        <rect id="Rectangle_13" data-name="Rectangle 13" width="26" height="11" rx="5.5" transform="translate(520.245 423.349) rotate(-75)" fill="#84aaff"/>
+        <rect id="Rectangle_20" data-name="Rectangle 20" width="13" height="11" rx="5.5" transform="translate(514.809 443.634) rotate(-75)" fill="#84aaff"/>
+        <rect id="Rectangle_17" data-name="Rectangle 17" width="26" height="11" rx="5.5" transform="translate(601.195 400.169) rotate(-75)" fill="#84aaff"/>
+        <rect id="Rectangle_15" data-name="Rectangle 15" width="26" height="11" rx="5.5" transform="translate(555.14 433.108) rotate(-75)" fill="#84aaff"/>
+        <rect id="Rectangle_19" data-name="Rectangle 19" width="26" height="11" rx="5.5" transform="translate(584.154 462.48) rotate(-75)" fill="#84aaff"/>
+        <rect id="Rectangle_18" data-name="Rectangle 18" width="13" height="11" rx="5.5" transform="translate(593.693 426.489) rotate(-75)" fill="#84aaff"/>
+      </g>
+      <g id="Sunny_Cloud" data-name="Sunny Cloud" transform="translate(-305 -310)">
+        <circle id="Ellipse_4" data-name="Ellipse 4" cx="71.5" cy="71.5" r="71.5" transform="translate(947 523)" fill="#ffe733"/>
+        <path id="Union_1" data-name="Union 1" d="M39.1,133q-1.139,0-2.26-.076Q35.75,133,34.646,133C15.512,133,0,115.682,0,94.317S15.512,55.634,34.646,55.634l.307,0a52.059,52.059,0,0,1-.307-5.652C34.646,22.378,56.362,0,83.15,0c20.844,0,38.618,13.55,45.479,32.569A30.347,30.347,0,0,1,149.41,24.34c16.981,0,30.748,14.01,30.748,31.294a31.711,31.711,0,0,1-2.066,11.3h8.876a33.033,33.033,0,1,1,0,66.065Z" transform="translate(843 540)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Sunny_Cloud-2" data-name="Sunny Cloud" transform="translate(1923 2417)">
+      <g id="Group_11" data-name="Group 11" transform="translate(806.715 343.054) rotate(30)">
+        <path id="Path_18" data-name="Path 18" d="M2337.367,1371.6c-10.972-98-40.756,0-40.756,0Z" transform="translate(-2043.872 -1302.04)" fill="#ffe733"/>
+        <path id="Path_20" data-name="Path 20" d="M33.432,0C86.4,36.921,15.721,27.23,15.721,27.23Z" transform="matrix(0.454, -0.891, 0.891, 0.454, 348.671, 110.382)" fill="#ffe733"/>
+        <circle id="Sunny" cx="71.5" cy="71.5" r="71.5" transform="translate(238 39)" fill="#ffe733"/>
+        <circle id="Ellipse_14" data-name="Ellipse 14" cx="7.5" cy="7.5" r="7.5" transform="translate(281.124 70.34)" fill="#cb7c2c"/>
+        <circle id="Ellipse_13" data-name="Ellipse 13" cx="7.5" cy="7.5" r="7.5" transform="translate(325.928 69.876)" fill="#cb7c2c"/>
+        <path id="Path_15" data-name="Path 15" d="M24,12c1.622,3.775-5.373,12-12,12S-2.56,15.588,0,12,22.378,8.225,24,12Z" transform="translate(298.794 70.84)" fill="#ff719c"/>
+      </g>
+      <path id="Union_1-2" data-name="Union 1" d="M39.1,133q-1.139,0-2.26-.076Q35.75,133,34.646,133C15.512,133,0,115.682,0,94.317S15.512,55.634,34.646,55.634l.307,0a52.059,52.059,0,0,1-.307-5.652C34.646,22.378,56.362,0,83.15,0c20.844,0,38.618,13.55,45.479,32.569A30.347,30.347,0,0,1,149.41,24.34c16.981,0,30.748,14.01,30.748,31.294a31.711,31.711,0,0,1-2.066,11.3h8.876a33.033,33.033,0,1,1,0,66.065Z" transform="translate(843 540)" fill="#fff"/>
+    </g>
+    <g id="rainbow" transform="translate(3101.712 2874.695) rotate(62)">
+      <path id="Path_22" data-name="Path 22" d="M1.75,126.25h15a109.622,109.622,0,0,1,109.5-109.5v-15A124.5,124.5,0,0,0,1.75,126.25Z" fill="red"/>
+      <path id="Path_23" data-name="Path 23" d="M16.75,126.25h15a94.6,94.6,0,0,1,94.5-94.5v-15a109.622,109.622,0,0,0-109.5,109.5Z" fill="#ffc426"/>
+      <path id="Path_24" data-name="Path 24" d="M61.75,126.25h15a49.555,49.555,0,0,1,49.5-49.5v-15a64.567,64.567,0,0,0-64.5,64.5Z" fill="#7dea3a"/>
+      <path id="Path_25" data-name="Path 25" d="M31.75,126.25h15a79.585,79.585,0,0,1,79.5-79.5v-15a94.6,94.6,0,0,0-94.5,94.5Z" fill="#ffff1d"/>
+      <path id="Path_26" data-name="Path 26" d="M46.75,126.25h15a64.567,64.567,0,0,1,64.5-64.5v-15a79.585,79.585,0,0,0-79.5,79.5Z" fill="#70efef"/>
+    </g>
+  </g>
+</svg>

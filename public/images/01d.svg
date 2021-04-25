@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="243" viewBox="0 0 243 243">
+  <g id="Group_32" data-name="Group 32" transform="translate(-1531 -83)">
+    <g id="Rectangle_46" data-name="Rectangle 46" transform="translate(1531 83)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="243" height="243" stroke="none"/>
+      <rect x="0.5" y="0.5" width="242" height="242" fill="none"/>
+    </g>
+    <g id="Group_30" data-name="Group 30" transform="translate(659 -361.721)">
+      <g id="Group_12" data-name="Group 12" transform="translate(916 489)">
+        <circle id="Sunny" cx="77.5" cy="77.5" r="77.5" transform="translate(0 -0.279)" fill="#ffe733"/>
+        <path id="Path_14" data-name="Path 14" d="M26.01,12.227c1.755,4.085-5.814,12.985-12.985,12.985S-2.729,16.109.04,12.227,24.256,8.142,26.01,12.227Z" transform="translate(62.721 79.751)" fill="#ff719c"/>
+      </g>
+      <path id="Union_2" data-name="Union 2" d="M0,13.912,17.313,16.23ZM17.313,0,0,13.912Z" transform="translate(1011.765 563.123)" fill="none" stroke="#cb7c2c" stroke-width="4"/>
+      <path id="Union_3" data-name="Union 3" d="M0,2.319,17.313,0ZM17.313,16.231,0,2.319Z" transform="translate(969.563 579.354) rotate(180)" fill="none" stroke="#cb7c2c" stroke-width="4"/>
+    </g>
+  </g>
+</svg>
